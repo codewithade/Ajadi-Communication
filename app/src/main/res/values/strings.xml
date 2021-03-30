@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">AD Comm</string>
+    <string name="t3">Learn the fundamentals of Communication and have a perfect understanding of what it entails</string>
+    <string name="t2">Learn Communication</string>
+    <string name="t1">In collaboration with UNILORIN</string>
+    <string name="t4">An Educational Technology Initiative</string>
+    <string name="get_started">Get Started</string>
+    <string name="is_first_run">isFirstRun</string>
+    <string name="edu_logo">Education Logo</string>
+    <string name="internet_error">Requires internet connection on first run</string>
+
+    <string-array name="error_list">
+        <item>Please check internet connection and try again.</item>
+        <item>Unable to load page.</item>
+        <item>Requires internet connection on first run.</item>
+        <item>Please ensure you have an internet connection.</item>
+    </string-array>
+</resources>
